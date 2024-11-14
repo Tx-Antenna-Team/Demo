@@ -1,0 +1,10 @@
+name = input("คุณชื่ออะไร? ")
+print("สวัสดี", name, "ยินดีต้อนรับ!")
+numbers = [1, 2, 3, 4, 5]
+average = sum(numbers) / len(numbers)
+print("ค่าเฉลี่ยคือ:", average)
+num = int(input("กรอกเลขจำนวนเต็ม: "))
+if num % 2 == 0:
+    print(num, "เป็นเลขคู่")
+else:
+    print(num, "เป็นเลขคี่")
