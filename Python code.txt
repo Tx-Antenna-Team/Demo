@@ -1,4 +1,4 @@
-name = input("ต่อตระกูล,มนตรี , อดิศร, ชนะศิลป์ ")
+name = input("ต่อตระกูล,มนตรี , อดิศร, ชนะศิลป์ , กฤษฎา")
 print("สวัสดี", name, "ยินดีต้อนรับนะจ๊ะ!")
 numbers = [1, 2, 3, 4, 5]
 average = sum(numbers) / len(numbers)
