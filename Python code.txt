@@ -8,3 +8,4 @@ if num % 2 == 0:
     print(num, "เป็นเลขคู่ 2")
 else:
     print(num, "เป็นเลขคี่ 9")
+AScACS
